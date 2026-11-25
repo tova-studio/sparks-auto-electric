@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:21:42.484Z",
+  "slug": "sparksauto",
+  "name": "Sparks Auto Electric",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Mechanics & car repair",
+    "niche": "mechanics & car repair",
+    "group": "Retail & automotive"
+  },
+  "contact": {
+    "phone": "+6433897070",
+    "email": "workshop@sparksauto.co.nz",
+    "address": "9 Maunsell St, Christchurch",
+    "hours": [
+      "Monday to Thursday 8am - 4pm"
+    ]
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/1331232623554822"
+  },
+  "about": {
+    "overview": "Sparks Auto Electrics, located at 9 Maunsell Street, has since expanded and continued to serve the vehicle owners of Christchurch. Our customers range from the domestic car owner, to the leisure craft enthusiast (both marine and camping), to the large commercial trucking fleet operators. Whatever your needs in vehicle electrical systems, we can help you.",
+    "tagline": "ABOUT US",
+    "services": [
+      "WE COVER",
+      "WE USE ONLY THE BEST PRODUCTS ON THE MARKET"
+    ]
+  },
+  "before": {
+    "url": "http://www.sparksauto.co.nz",
+    "domain": "sparksauto.co.nz",
+    "finalUrl": "http://www.sparksauto.co.nz/",
+    "title": "Home",
+    "pages": 2,
+    "score": 85,
+    "assessedAt": "2026-11-21T13:07:14.117Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.sparksauto.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2016, 10 years ago."
+      },
+      {
+        "id": "weak-title",
+        "title": "Weak or missing page title",
+        "evidence": "Title is just \"Home\"."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "20 of 20 images have no alt text (accessibility and SEO)."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/sparks-auto-electric/",
+    "repoUrl": "https://github.com/tova-studio/sparks-auto-electric",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:21:42.484Z"
+  }
+}
